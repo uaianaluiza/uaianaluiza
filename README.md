@@ -1,8 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=uaianaluiza&color=blue)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi guys! </h1>
+<h1> Hi guys! </h1>
 
+I'm Ana Luiza, a 30-year-old. I've been working in system development since 2021.
 I work as a BackEnd Developer at [Zup Innovation](https://www.zup.com.br/).
+Welcome!
+
+### Contact 🤝
+
+<a href="https://www.linkedin.com/in/ana-santos-developer-backend/"><img src="https://img.shields.io/badge/-Ana Luiza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ### Languages & Tools 🛠  
 
@@ -15,10 +21,14 @@ I work as a BackEnd Developer at [Zup Innovation](https://www.zup.com.br/).
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) 
 
+### Books already read by me :books:
 
-### Contact 🤝
-
-<a href="https://www.linkedin.com/in/ana-santos-developer-backend/"><img src="https://img.shields.io/badge/-Ana Luiza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+- [Clean Architecture/Arquitetura Limpa](https://amzn.to/3WtjQqR)
+- [Clean Code/Código Limpo](https://amzn.to/3LwY3bF)
+- [Entendendo Algoritmos](https://amzn.to/3Skiuw5)
+- [OCA Java SE 8](https://amzn.to/3zLYv2Y)
+- [Kubernetes Básico](https://amzn.to/4d2lEwy)
+- [Desbravando SOLID](https://amzn.to/4cRQvw1)
 
 ### Analytics ⚙️
 
