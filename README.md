@@ -2,8 +2,8 @@
 
 <h1> Hi guys! </h1>
 
-I'm Ana Luiza, a 30-year-old. I've been working in system development since 2021.
-I work as a BackEnd Developer at [Zup Innovation](https://www.zup.com.br/).
+I'm Ana Luiza, a 30-year-old. I've been working in system development since 2021.\
+I work as a BackEnd Developer at [Zup Innovation](https://www.zup.com.br/).\
 Welcome!
 
 ### Contact 🤝
